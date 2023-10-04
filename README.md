@@ -3,9 +3,11 @@
 ## Getting Started
 
 Install all the libraries needed :
+
 ![gettingstart1](https://github.com/arvinantobahtiar/Web-scraping-playstore-app/assets/111122086/533aee9a-5e1e-4790-9dd2-117d27699533)
 
 Import the libraries that are needed :
+
 ![gettingstart2](https://github.com/arvinantobahtiar/Web-scraping-playstore-app/assets/111122086/163502a0-e847-4a97-acf8-839a50b2c723)
 
 ## Explanation

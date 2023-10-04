@@ -1,6 +1,8 @@
 # Web Scraping Play Store App 
 
+
 ## Getting Started
+
 
 Install all the libraries needed :
 
@@ -11,6 +13,7 @@ Import the libraries that are needed :
 ![gettingstart2](https://github.com/arvinantobahtiar/Web-scraping-playstore-app/assets/111122086/163502a0-e847-4a97-acf8-839a50b2c723)
 
 ## Explanation
+
 
 A way to scrap through details such as comments, ratings, reviews,etc about specific app in playstore (in this case MyPertamina) 
 and not only scrapping the data, but i visualize the average score reviews on every app version released and created a wordcloud for the comment reviews section

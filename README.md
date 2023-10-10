@@ -6,7 +6,6 @@
 
 Install all the libraries needed :
 
-`!pip install pandas`
 ![gettingstart1](https://github.com/arvinantobahtiar/Web-scraping-playstore-app/assets/111122086/533aee9a-5e1e-4790-9dd2-117d27699533)
 
 Import the libraries that are needed :
